@@ -1,0 +1,8 @@
+packages:
+  - "application/Web"
+  - "application/mobile"
+  - "packages/*"
+allowBuilds:
+  esbuild: true
+  sharp: true
+  unrs-resolver: true
