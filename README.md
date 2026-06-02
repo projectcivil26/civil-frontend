@@ -1,3 +1,10 @@
+This Repo represents the Frontend design development for the SiteStack Civil ERP project.
+
+--> This architecture contains the structure for both web and mobile application under the application folder which acts as the core folder.
+--> The Documents folder contains the .MD file for your agents to understand what is done exactly and all the other informations to learn and understand. 
+
+Below are the steps to start contributing to the project.
+
 git clone https://github.com/projectcivil26/civil-frontend.git
 cd civil-frontend
 pnpm install
