@@ -10,6 +10,12 @@ node_modules
 dist
 out
 
+# TypeScript incremental compilation cache
+*.tsbuildinfo
+
+# Expo generated files (mobile workspace)
+.expo
+
 # env files
 .env
 .env.local
